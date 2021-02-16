@@ -1,0 +1,109 @@
+# Build and Release Folders
+Sound/
+BashTags/
+01 HD textures and better meshes/
+01 HD textures and better meshes/
+AetheriumArmornWeapons/
+AllgudMeshes/
+aMidianBorn Optional Plugins/
+BashTags/
+bkup/
+CalienteTools/
+dialogueviews/
+DLLPlugins/
+Docs/
+DynDOLOD/
+Edit Scripts/
+FNIS Behavior SE 7.6/
+FOMod/
+Fusax2Project/
+grass/
+INI Tweaks/
+interface/
+Legacy esp/
+lodsettings/
+music/
+NetScriptFramework/
+readmes/
+ShaderCache/
+SKSE/
+# Other files and folders
+# !.settings/
+
+# Executables
+
+*.7z
+*.backup*
+*.bak
+*.bat
+*.bik
+*.bsa
+*.bsl
+*.bto
+*.btr
+*.btt
+*.db
+*.dds
+*.ds_store
+*.dll
+*.docx
+*.esl
+*.esm
+*.esp
+*.exe
+*.file
+*.flg
+*.hkx
+*.ini
+*.lnk
+*.log
+*.lst
+*.modgroups
+*.nif*
+*.pdn
+*.pex*
+*.plb
+*.psc
+*.jpg
+*.json
+*.refcache
+*.save*
+*.seq
+*.tes
+*.tmp
+*.tri
+*.txt
+*.png
+*.vortex_backup
+*.wav
+*.xlsx
+*.xml
+*.zip
+*_folder_managed_by_vortex
+
+
+# Mod files
+
+# !Aru_*.dds
+!Aru_*.esp
+# !Aru_.fuz
+# !Aru_*.nif
+!Aru_*.pex
+!Aru_*.png
+!Aru_*.psc
+!Aru_*.seq
+!issargonianskeleton.nif
+!issskeleton.nif
+!issskeletons.nif
+!issgard_beastraceargoniantail.nif
+!issgard_beastraceargoniantailstatic.nif
+!isgard_beastskeletons.dds
+!isgard_beastskeletons_n.dds
+# !Aru_*.wav
+
+
+
+# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
+# should NOT be excluded as they contain compiler settings and other important
+# information for Eclipse / Flash Builder.
+# suadyhasdkjfhaiuhrfew
