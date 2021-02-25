@@ -6,11 +6,17 @@
 
 Wa-Seek-Eye Follower mod
 
-Not the Argonian follower you want, but the Argonian follower you deserve.
+Wasseek-Ei is'nt like any other argonian you've met before having mostly grown up in Morrowind after the abolishment of slavery he feels more at home in the ash than the bitter cold of Skyrim he still has a love for swamps and swimming.
+
+He came to Skyrim along with his brother Xaxheel after fleeing from Morrowind after being targeted by assassin's his brother has not revealed why to Wasseek perhaps you can discover the reason later on.  (You can find out more of his backstory as you become closer to him) .
+
+Wasseek has some talent with bladed weapons such as knives, swords and daggers but can also cast basic magic like oakflesh and healing.
+
+
 
 # Basic overview of Wassek-ei
 
-   Meet Waseek-Ei at argonian assemblage at windhelm docks, gain argonian hobo, profit.
+   Meet Waseek-Ei at windhelm docks, gain argonian hobo, profit.
    
    ## Other Info
    [Waseek-Ei's Past](./Wasseek-Ei'sPast.md?token=ASSRIC5AQQNJNY3GZLI2TBDADXU4W)
